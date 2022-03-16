@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  Welcome to Hashicorp's 16th March 2022 demo lab thing with Git and securing your passwords and stuff.
   <!-- END -->
   
   </div>
